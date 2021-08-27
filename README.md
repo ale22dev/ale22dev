@@ -36,5 +36,5 @@
  
  <div>
   <a href="https://github.com/ale22dev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ale22dev&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ale22dev&layout=compact&langs_count=7&theme=dracula"/>
 </div>
