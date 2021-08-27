@@ -22,7 +22,6 @@
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
 </p>  
 
-
 <br>
 🚀 MY SKILLS
 <br>
@@ -32,13 +31,8 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <br>
-<br>
-<a href="https://github.com/ale22dev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessaswerts&theme=dracula&hide_langs_below=1" />
-</a>
 
-
-<!---
-ale22dev/ale22dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ <div>
+  <a href="https://github.com/ale22dev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ale22dev&layout=compact&langs_count=7&theme=dracula"/>
+</div>
