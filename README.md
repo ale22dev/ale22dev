@@ -1,4 +1,4 @@
-<b>HI I´M ALEJADRO<b>
+<b>HI I´M ALEJANDRO<b>
 
 <img align="right" width="300" src="https://c.tenor.com/nkYsPDoADwgAAAAC/computer-pixel-art.gif" />
 
